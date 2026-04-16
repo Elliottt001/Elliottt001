@@ -20,6 +20,8 @@ https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elliottt001&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
 <br/>
+</p>
+
 <!-- https://github.com/LelouchFR/skill-icons -->
 <!-- <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,react,vue,html,css,js,ts,md,latex,docker,git,github,linux,windows,vscode,idea" />
 </p> -->
@@ -27,7 +29,7 @@ https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 
 
-<p align="left">
+<p align="center">
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
